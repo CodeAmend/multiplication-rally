@@ -42,3 +42,7 @@ A simple app that lets you test your times-table skills.
   * how many seconds/milliseconds
 
 
+#### Status scores
+* highest rated
+* lowest rated
+* by table
